@@ -159,35 +159,6 @@
     }
     */
 </style>
-<style>
-    [class*="chatCopyright"], [class*="copy"] {
-        display: none !important;
-    }
-    .whatsapp-butonu {
-        width: 65px;
-        height: 65px;
-        border: none;
-        box-shadow: 0 0 0 0 rgba(41, 167, 26, .7);
-        border-radius: 50%;
-        background-color: #29a71a;
-        background-image: url("whatsapp.png");
-        background-size: 50%;
-        background-position: center center;
-        background-repeat: no-repeat;
-        cursor: pointer;
-        -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-        -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-        -ms-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-        animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
-        position: fixed;
-        z-index: 998;
-    }
-    .whatsapp-butonu:hover {-webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;}
-    @-webkit-keyframes pulse {to {box-shadow: 0 0 0 40px rgba(232, 76, 61, 0);}}
-    @-moz-keyframes pulse {to {box-shadow: 0 0 0 40px rgba(232, 76, 61, 0);}}
-    @-ms-keyframes pulse {to {box-shadow: 0 0 0 40px rgba(232, 76, 61, 0);}}
-    @keyframes pulse {to {box-shadow: 0 0 0 40px rgba(232, 76, 61, 0);}}
-</style>
 
 <style>
     .text-shadow {
@@ -689,28 +660,8 @@
             }
         },50);
 
-        is_element_load2 = setInterval(function(){
-            let e = document.querySelector('[class*="iconWrap"]');
-            let e2 = document.querySelector('.whatsapp-butonu');
-            if (e && !e2) {
-                e.outerHTML = '<div class="whatsapp-butonu"></div>';
-            }
-        },50)
 
     });
-
-    // DOMContentLoad SIZ!
-    urlParams = new URLSearchParams(window.location.search)
-    if (!urlParams.has('chat')) {
-        const script = document.createElement('script');
-        script.src = "https://code.jivosite.com/widget/YTpGhHy9u3";
-        script.async = true;
-        document.body.appendChild(script);
-    } else {
-        const style = document.createElement('style');
-        style.innerHTML = `.text, .button {display:none !important;}`;
-        document.head.appendChild(style);
-    }
 
 </script>
 </body>
