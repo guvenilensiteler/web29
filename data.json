@@ -74,6 +74,19 @@
         "miktar": "₺888",
         "promo_code_yok": "",
         "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/sofuaff",
+        "desc": [
+          "100₺ Deneme Bonusu Sınırsız Çekim"
+        ],
+        "site": "mersobahis",
+        "sort": null,
+        "color": "#ffdf42",
+        "miktar": "₺100",
+        "promo_code": null,
+        "promo_code_yok": "Türkiyenin En Güvenilir Sitesi",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -164,28 +177,8 @@
         "sort": "3",
         "sites": [
           {
-            "site": "betewin",
+            "site": "mersobahis",
             "sort": "1"
-          },
-          {
-            "site": "bankobet",
-            "sort": "2"
-          },
-          {
-            "site": "tarafbet",
-            "sort": "3"
-          },
-          {
-            "site": "mariobet",
-            "sort": "4"
-          },
-          {
-            "site": "bahiscom",
-            "sort": "5"
-          },
-          {
-            "site": "betkom",
-            "sort": "6"
           }
         ]
       },
