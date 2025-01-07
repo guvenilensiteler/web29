@@ -4,74 +4,15 @@
     "logo": "",
     "sites": [
       {
-        "url": "https://cutt.ly/RePX4HMX",
+        "url": "https://bit.ly/3BDNUbL",
         "desc": [
-          "HERKESE 999₺ DENEME BONUSU"
+          "HOŞ GELDİN BONUSUNU AL!"
         ],
-        "site": "betewin",
+        "site": "marsbahis",
         "sort": null,
-        "color": "#ff8d14",
-        "miktar": "₺999",
-        "promo_code_yok": "+%100 ÇEVRİMSİZ YATIRIM BONUSLARI",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/PeP3kRWz",
-        "desc": [
-          "1.111 TL NAKİT - 111 FREE SPIN"
-        ],
-        "site": "bankobet",
-        "sort": null,
-        "color": "#ff1376",
-        "miktar": "₺1.111",
-        "promo_code_yok": "KAYIT OL DENEME BONUSUNU AL!",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/1ePCm53V",
-        "desc": [
-          "KAYIT OL PROMOSYON KODUNU GİR"
-        ],
-        "site": "tarafbet",
-        "sort": null,
-        "color": "#178b42",
-        "miktar": "₺999",
-        "promo_code_yok": "",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/3ePCcJJJ",
-        "desc": [
-          "ÜYE OL DENEME BONUSUNU AL!"
-        ],
-        "site": "mariobet",
-        "sort": null,
-        "color": "#f16227",
-        "miktar": "₺888",
-        "promo_code_yok": "",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/WePCnrlq",
-        "desc": [
-          "CANLI DESTEĞE BAĞLAN BONUSUNU AL!"
-        ],
-        "site": "bahiscom",
-        "sort": null,
-        "color": "#00c683",
-        "miktar": "₺888",
-        "promo_code_yok": "",
-        "slider_img": ""
-      },
-      {
-        "url": "https://cutt.ly/YePCc2dT",
-        "desc": [
-          "CANLI DESTEĞE BAĞLAN, BONUSUNU AL!"
-        ],
-        "site": "betkom",
-        "sort": null,
-        "color": "#1fe0ff",
-        "miktar": "₺888",
+        "color": "#e12629",
+        "miktar": "KAYIT OL",
+        "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
         "slider_img": ""
       },
@@ -84,34 +25,9 @@
         "sort": null,
         "color": "#ffdf42",
         "miktar": "₺100",
+        "elmas": "ana-sponsor.webp",
         "promo_code": null,
         "promo_code_yok": "Türkiyenin En Güvenilir Sitesi",
-        "slider_img": ""
-      },
-      {
-        "url": "https://partner.bahisabiaffiliates.com/imp/bahisabi/1158",
-        "desc": [
-          "200 FREESPIN DENEME BONUSU"
-        ],
-        "site": "bahisabi",
-        "sort": null,
-        "color": "#f34624",
-        "miktar": "200FS",
-        "promo_code": null,
-        "promo_code_yok": "100.000₺ %30 CASİNO HOŞ GELDİN",
-        "slider_img": ""
-      },
-      {
-        "url": "https://partner.babilaffiliates.com/imp/babilonbet/1149",
-        "desc": [
-          "%10 LİMİTSİZ YATIRIM BONUSU"
-        ],
-        "site": "babilonbet",
-        "sort": null,
-        "color": "#00afe2",
-        "miktar": "200FS",
-        "promo_code": null,
-        "promo_code_yok": "%100 PRAGMATİC BONUSU",
         "slider_img": ""
       }
     ],
@@ -126,7 +42,7 @@
       "telegram": null,
       "instagram": null
     },
-    "cdn_url": "https://spinbey.com/",
+    "cdn_url": "https://ruletkahindensiteler.com/",
     "is_slider": true,
     "background": null,
     "categories": [
@@ -203,16 +119,12 @@
         "sort": "3",
         "sites": [
           {
-            "site": "mersobahis",
+            "site": "marsbahis",
             "sort": "1"
           },
           {
-            "site": "bahisabi",
+            "site": "mersobahis",
             "sort": "2"
-          },
-          {
-            "site": "babilonbet",
-            "sort": "3"
           }
         ]
       },
