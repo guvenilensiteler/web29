@@ -78,12 +78,12 @@
       {
         "url": "https://t2m.io/sofuaff",
         "desc": [
-          "100₺ Deneme Bonusu Sınırsız Çekim"
+          "2.000₺ Deneme Bonusu Sınırsız Çekim"
         ],
         "site": "mersobahis",
         "sort": null,
         "color": "#ffdf42",
-        "miktar": "₺100",
+        "miktar": "₺2.000",
         "promo_code": null,
         "promo_code_yok": "Türkiyenin En Güvenilir Sitesi",
         "slider_img": ""
@@ -123,6 +123,30 @@
         "miktar": "KAYIT OL",
         "elmas": "ana-sponsor.webp",
         "promo_code_yok": "",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/2414374",
+        "desc": [
+          "2025 tl deneme bonusu"
+        ],
+        "site": "vaycasino",
+        "sort": null,
+        "color": "#ed312e",
+        "miktar": "₺2.025",
+        "promo_code_yok": "100 milyon tl çekim garantisi",
+        "slider_img": ""
+      },
+      {
+        "url": "https://t2m.io/2414376",
+        "desc": [
+          "2222 FREESPIN"
+        ],
+        "site": "sheratonbet",
+        "sort": null,
+        "color": "#ecc500",
+        "miktar": "2222 FS",
+        "promo_code_yok": "99 ÜLKEDE OTEL GÜVENCESİ",
         "slider_img": ""
       }
     ],
@@ -217,7 +241,14 @@
             "site": "mersobahis",
             "sort": "1"
           },
-
+          {
+            "site": "vaycasino",
+            "sort": "2"
+          },
+          {
+            "site": "sheratonbet",
+            "sort": "3"
+          },
           {
             "site": "marsbahis",
             "sort": "4"
