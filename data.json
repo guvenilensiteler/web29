@@ -148,6 +148,19 @@
         "miktar": "2222 FS",
         "promo_code_yok": "99 ÜLKEDE OTEL GÜVENCESİ",
         "slider_img": ""
+      },
+      {
+        "url": "https://primebahis1.wiki/MgDpdie",
+        "desc": [
+          "444FS DENEME BONUSU"
+        ],
+        "site": "primebahis",
+        "sort": null,
+        "color": "#1a98ff",
+        "miktar": "444FS",
+        "promo_code": null,
+        "promo_code_yok": "%100 İADE BONUSU | ERTESİ GÜN FREESPİNLERİ",
+        "slider_img": ""
       }
     ],
     "social": {
@@ -246,11 +259,11 @@
             "sort": "2"
           },
           {
-            "site": "sheratonbet",
+            "site": "primebahis",
             "sort": "3"
           },
           {
-            "site": "marsbahis",
+            "site": "sheratonbet",
             "sort": "4"
           }
         ]
